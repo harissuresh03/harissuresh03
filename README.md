@@ -1,7 +1,7 @@
 <div align="center">
-# Hi, I'm Haris 👋
+## Hi, I'm Haris 👋
  
-### Computer Science Undergraduate | Full-Stack Developer | React, Node.js & Flutter
+### Computer Science Undergraduate | Full-Stack Developer | React, Java & JavaScript
  
 I build full-stack web and mobile platforms — from AI-powered systems to production-style desktop and REST APIs.
  
@@ -129,13 +129,6 @@ Python desktop application using a trained CNN to classify retinal scans into 4 
  
 - **Media & Publicity Team Lead**, Developer Student Club UTeM (2023–2026) — led a team managing the club's digital presence across four platforms
 - **Media Lead**, Student Representative Council KTEPJ (2021–2023) — led social media strategy and multimedia production for college-wide events
----
- 
-## Current Focus
- 
-- Refining Lumora's AI features and wellness reporting pipeline
-- Deepening Python and machine learning skills beyond the Retinal Disease Detection project
-- Preparing for a Software Engineering internship starting September 2026
 ---
  
 <div align="center">
