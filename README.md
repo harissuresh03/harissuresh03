@@ -6,6 +6,8 @@
  
  
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.harissuresh.my-000000?style=for-the-badge)](https://portfolio.harissuresh.my)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-haris--suresh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-suresh-3b1693360)
+[![Email](https://img.shields.io/badge/EMAIL-harissuresh03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harissuresh03@gmail.com)
  
 </div>
  
